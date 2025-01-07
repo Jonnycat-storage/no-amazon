@@ -1,6 +1,4 @@
 ! Cloudfront
-||cloudfront.loggly.com^
-||cloudfront.net^
 ||d10lumateci472.cloudfront.net^
 ||d10lv7w3g0jvk9.cloudfront.net^
 ||d10nkw6w2k1o10.cloudfront.net^
